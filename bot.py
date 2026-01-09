@@ -6,7 +6,7 @@ import logging
 from telegram import Update
 from telegram.ext import ApplicationBuilder, CommandHandler, MessageHandler, ContextTypes, filters
 
-TOKEN = "8526189014:AAFfyVjL65v-MpPs0fwXgYy-hTsb7e2LP-I"
+TOKEN = "8526189014:AAFuEcccs2G6CiCro8CZC10ArES6Ilwncyg"
 ADMIN_CHAT_ID = 1371051884  # admin telegram chat id
 
 logging.basicConfig(
